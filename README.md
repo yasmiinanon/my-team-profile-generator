@@ -1,14 +1,13 @@
-# New Portfolio: Module 3 Challenge
+# Team-profile-generator: Module 12 Challenge
 
 ## Description 
 
-This project involved building a portfolio page in React, by using the skills acquired over the entire course.
+This project involved testing an app which generates the number of employees requested by the user.
 
 ## Table of Contents (Optional)
 
 * [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
+<!-- * [Usage](#usage) -->
 * [License](#license)
 * [Badges](#badges)
 * [Features](#features)
@@ -20,7 +19,7 @@ This project involved building a portfolio page in React, by using the skills ac
 1. Navigate to the repository using the link below: 
 
 ```sh
-   https://github.com/yasmiinanon/React-Portfolio-Yasmiin
+   https://github.com/yasmiinanon/my-team-profile-generator
    ```
 <br>
 
@@ -31,27 +30,16 @@ This project involved building a portfolio page in React, by using the skills ac
 3. Clone the repository into your local machine using the below command entered into the command line (assuming you have set up your SSH connection correctly to connect your GitHub account to your local machine):
 
 ```sh
-   git clone git@github.com:yasmiinLDN/React-Portfolio-Yasmiin.git
+   git clone git@github.com:yasmiinLDN/my-team-profile-generator.git
    ```
 <br>
 
 
-## Usage 
+<!-- ## Usage 
 
 Below shows the layout of the final website:
 
-![screenshot of index.html](./public/site-screenshot.png)
-
-
-## Credits
-
-This document was created with assistance from the following websites and with help from my tutor Juan Delgado:
-
-https://w3schools.com/
-<br>
-<br>
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
-
+![screenshot of index.html](./public/site-screenshot.png) -->
 
 
 ## License
@@ -60,23 +48,14 @@ This document is distributed under the MIT License. Please see LICENSE.txt for m
 
 ## Badges
 
-| HTML5            | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
-
-| CSS            | ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-
-| Bootstrap            | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-| React            | ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+| Node.js            | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 | Javascript            | ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Features
 
 ### Main website contents
-- About me and introducing my portfolio
-- My work projects (including two previous projects)
-- List of skills to gain from the programme
-- Contact information
+- 
 
 ## Contributing
 
